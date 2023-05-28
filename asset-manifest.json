@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/abcde/static/css/main.89ea6f58.css",
+    "main.js": "/abcde/static/js/main.fde92533.js",
+    "static/media/profile.jpeg": "/abcde/static/media/profile.69b56c894a1ecd287478.jpeg",
+    "index.html": "/abcde/index.html",
+    "main.89ea6f58.css.map": "/abcde/static/css/main.89ea6f58.css.map",
+    "main.fde92533.js.map": "/abcde/static/js/main.fde92533.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89ea6f58.css",
+    "static/js/main.fde92533.js"
+  ]
+}
